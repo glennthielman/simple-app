@@ -1,0 +1,6 @@
+{
+  "parkings": [
+    { "id": 1, "name": "Central Parking", "capacity": 100 },
+    { "id": 2, "name": "West Parking", "capacity": 50 }
+  ]
+}
